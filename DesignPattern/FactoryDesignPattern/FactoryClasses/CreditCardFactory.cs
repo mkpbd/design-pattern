@@ -18,8 +18,6 @@ namespace FactoryDesignPattern.FactoryClasses
          * In simple words, if we have a superclass and n number of subclasses, and based on the data provided, if we have to create and return the object of one of the subclasses, then we need to use the Factory Design Pattern in C#.
          * 
          */
-
-
         public ICreditCard GetCreditCard(string cardType)
         {
             ICreditCard creditCard = null;
