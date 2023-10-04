@@ -8,3 +8,27 @@
 ![1696398944583](image/readme/1696398944583.png)
 
 ![1696398978694](image/readme/1696398978694.png)
+
+
+factory design pattern 
+
+
+![1696400877918](image/readme/1696400877918.png)
+
+
+![1696401028851](image/readme/1696401028851.png)
+
+
+![1696401098010](image/readme/1696401098010.png)
+
+![1696401184961](image/readme/1696401184961.png)
+
+
+
+
+
+
+
+Factory Method 
+
+![1696401064259](image/readme/1696401064259.png)
